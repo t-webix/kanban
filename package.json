@@ -1,0 +1,20 @@
+{
+  "name": "@xbs/kanban",
+  "version": "9.1.0",
+  "description": "Webix UI",
+  "main": "kanban.js",
+  "types": "types/kanban.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webix",
+    "ui",
+    "widgets"
+  ],
+  "publishConfig":{
+    "registry":"https://npm.webix.com"
+  },
+  "author": "XB Software",
+  "license": "SEE LICENSE IN license.text"
+}
